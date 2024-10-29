@@ -1,0 +1,16 @@
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\bin\Debug\net8.0-windows\Trabalho_Aps.exe
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\bin\Debug\net8.0-windows\Trabalho_Aps.deps.json
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\bin\Debug\net8.0-windows\Trabalho_Aps.runtimeconfig.json
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\bin\Debug\net8.0-windows\Trabalho_Aps.dll
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\bin\Debug\net8.0-windows\Trabalho_Aps.pdb
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.csproj.GenerateResource.cache
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.AssemblyInfoInputs.cache
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.AssemblyInfo.cs
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.dll
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\refint\Trabalho_Aps.dll
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.pdb
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.genruntimeconfig.cache
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\ref\Trabalho_Aps.dll
+C:\Users\Mateus Walther\Desktop\FiguraGeometrica_30_10\Trabalho_Aps\obj\Debug\net8.0-windows\Trabalho_Aps.Frm_FormaGeometrica.resources
